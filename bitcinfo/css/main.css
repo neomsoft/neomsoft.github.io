@@ -1,0 +1,145 @@
+body, html {
+	background-color: #2C3240;
+	background-size: auto, cover;
+	background-attachment: fixed, fixed;
+	background-position: center, center;
+	margin: 0;
+	padding: 0;
+	vertical-align: baseline;    
+}
+
+.info {
+	background-size: auto, cover;
+	background-position: center, center;
+	margin-bottom: -9.5em;
+}
+
+.inner {
+	margin: auto;
+	width: 60em;
+}
+
+.innerRight {
+	text-align: right;
+}
+
+	.innerRight h2 {
+		position: relative;
+		right: 2.7em;
+	}
+
+	.innerRight p {
+		position: relative;
+		right: -18em;
+	}
+
+h2, p, a, h1 {
+	color: #FBFBFB;
+}
+
+h2, p {
+	line-height: 1.5;
+	width: 30em;	
+}
+
+h2 {
+	font-size: 2.2em;
+}
+
+p {
+	font-size: 1.25em;
+}
+
+#header {
+	padding: 9em 0 9em 0 ;
+	/*background-color: #1251E3;*/
+	clip-path: polygon(0 0, 100% 0, 100% 71%, 0 100%);
+}
+		#header .inner h1 {
+			font-size: 2.25em;
+		}
+
+
+#first {
+	padding: 5em 0 7em 0 ;
+	background-color: #4C5D99;
+	clip-path: polygon(0 25%, 100% 0, 100% 100%, 0 75%);
+}
+
+#second {
+	padding: 6em 0 8em 0 ;
+	background-color: #576BB1;
+	clip-path: polygon(0 0, 100% 19%, 100% 79%, 0 100%);
+}
+
+#last {
+	padding: 8em 0 12em 0 ;
+	background-color: #202E60;
+	clip-path: polygon(0 22%, 100% 0, 100% 75%, 0 100%);
+}
+
+#footer {
+	padding: 15em 0 0 0 ;
+	clip-path: polygon(0 25%, 100% 0, 100% 100%, 0 100%);
+}
+
+		#footer .inner h1 {
+			font-size: 1.3em;
+		}
+
+.floatingbuttons{
+	position: fixed; /* Фиксированное положение */
+    right: 0.3em; /* Расстояние от правого края окна браузера */
+    bottom: 0.1em; /* Расстояние сверху */
+}
+
+	.floatingbuttons .button {
+		padding: 0.2em;
+	}
+
+	.floatingbuttons .button a object img {
+		width: 4em;
+		height: 4em;
+	}
+
+
+/*@media screen and (max-width: 1100px) {
+
+	#header {
+		padding: 5em 3em 8em 3em ;
+		margin-bottom: -4.75em;
+	}
+
+		#header .header {
+			width: 100%;
+		}
+
+		#header h2 {
+			color: white;
+			font-size: 1.5em;
+		}
+}*/
+
+/*@media screen and (max-width: 736px) {
+
+	#banner {
+		padding: 5em 2em 4.25em 2em ;
+		margin-bottom: -2.5em;
+	}
+
+		#banner .logo {
+			margin: 0 0 1em 0;
+		}
+
+			#banner .logo .icon {
+				font-size: 1.5em;
+			}
+
+		#banner h2 {
+			font-size: 1.5em;
+		}
+
+		#banner p {
+			font-size: 0.8em;
+		}
+}*/
