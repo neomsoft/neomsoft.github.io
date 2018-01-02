@@ -52,8 +52,8 @@ p {
 
 #header {
 	padding: 9em 0 9em 0 ;
-	/*background-color: #1251E3;*/
-	clip-path: polygon(0 0, 100% 0, 100% 71%, 0 100%);
+	-webkit-clip-path: polygon(0 0, 100% 0, 100% 71%, 0 100%);
+	        clip-path: polygon(0 0, 100% 0, 100% 71%, 0 100%);
 }
 		#header .inner h1 {
 			font-size: 2.25em;
@@ -63,24 +63,28 @@ p {
 #first {
 	padding: 5em 0 7em 0 ;
 	background-color: #4C5D99;
-	clip-path: polygon(0 25%, 100% 0, 100% 100%, 0 75%);
+	-webkit-clip-path: polygon(0 25%, 100% 0, 100% 100%, 0 75%);
+	        clip-path: polygon(0 25%, 100% 0, 100% 100%, 0 75%);
 }
 
 #second {
 	padding: 6em 0 8em 0 ;
 	background-color: #576BB1;
-	clip-path: polygon(0 0, 100% 19%, 100% 79%, 0 100%);
+	-webkit-clip-path: polygon(0 0, 100% 19%, 100% 79%, 0 100%);
+	        clip-path: polygon(0 0, 100% 19%, 100% 79%, 0 100%);
 }
 
 #last {
 	padding: 8em 0 12em 0 ;
 	background-color: #202E60;
-	clip-path: polygon(0 22%, 100% 0, 100% 75%, 0 100%);
+	-webkit-clip-path: polygon(0 22%, 100% 0, 100% 75%, 0 100%);
+	        clip-path: polygon(0 22%, 100% 0, 100% 75%, 0 100%);
 }
 
 #footer {
 	padding: 15em 0 0 0 ;
-	clip-path: polygon(0 25%, 100% 0, 100% 100%, 0 100%);
+	-webkit-clip-path: polygon(0 25%, 100% 0, 100% 100%, 0 100%);
+	        clip-path: polygon(0 25%, 100% 0, 100% 100%, 0 100%);
 }
 
 		#footer .inner h1 {
@@ -88,9 +92,9 @@ p {
 		}
 
 .floatingbuttons{
-	position: fixed; /* Фиксированное положение */
-    right: 0.3em; /* Расстояние от правого края окна браузера */
-    bottom: 0.1em; /* Расстояние сверху */
+	position: fixed; 
+    right: 0.3em;
+    bottom: 0.1em;
 }
 
 	.floatingbuttons .button {
