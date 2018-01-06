@@ -1,53 +1,39 @@
 body, html {
 	background-color: #2C3240;
-	background-size: auto, cover;
-	background-attachment: fixed, fixed;
-	background-position: center, center;
 	margin: 0;
 	padding: 0;
-	vertical-align: baseline;    
+	font-family:  Georgia;
 }
 
-.info {
-	background-size: auto, cover;
-	background-position: center, center;
-	margin-bottom: -9.5em;
+strong {
+	font-weight: normal;
+	font-family: Times New Roman;
 }
-
-.inner {
-	margin: auto;
-	width: 60em;
-}
-
-.innerRight {
-	text-align: right;
-}
-
-	.innerRight h2 {
-		position: relative;
-		right: 2.7em;
-	}
-
-	.innerRight p {
-		position: relative;
-		right: -18em;
-	}
 
 h2, p, a, h1 {
 	color: #FBFBFB;
 }
 
 h2, p {
-	line-height: 1.5;
+	line-height: 1.4;
 	width: 30em;	
 }
 
 h2 {
-	font-size: 2.2em;
+	font-size: 30px;
 }
 
 p {
 	font-size: 1.25em;
+}
+
+.outer {
+	margin-bottom: -9.5em;
+}
+
+.inner {
+	margin: 0 auto;
+	width: 60em;
 }
 
 #header {
@@ -61,15 +47,15 @@ p {
 
 
 #first {
-	padding: 5em 0 7em 0 ;
-	background-color: #4C5D99;
+	padding: 5em 0 9em 0 ;
+	background-color: #485B9E;
 	-webkit-clip-path: polygon(0 25%, 100% 0, 100% 100%, 0 75%);
 	        clip-path: polygon(0 25%, 100% 0, 100% 100%, 0 75%);
 }
 
 #second {
-	padding: 6em 0 8em 0 ;
-	background-color: #576BB1;
+	padding: 6em 0 9em 0 ;
+	background-color: #2C428F;
 	-webkit-clip-path: polygon(0 0, 100% 19%, 100% 79%, 0 100%);
 	        clip-path: polygon(0 0, 100% 19%, 100% 79%, 0 100%);
 }
@@ -88,62 +74,150 @@ p {
 }
 
 		#footer .inner h1 {
-			font-size: 1.3em;
+			font-size: 1.2em;
+			font-weight: normal;
 		}
 
 .floatingbuttons{
 	position: fixed; 
     right: 0.3em;
-    bottom: 0.1em;
+    bottom: 0.0em;
 }
 
 	.floatingbuttons .button {
-		padding: 0.2em;
+		padding: 0.1em;
 	}
 
 	.floatingbuttons .button a img {
-		width: 4em;
-		height: 4em;
+		width: 3.5em;
+		height: 3.5em;
 	}
 
 
-/*@media screen and (max-width: 1100px) {
+@media screen and (max-width: 1110px) {
+
+	.outer {
+		margin-bottom: -10.5em;
+	}
+
+	.inner {
+		width: auto;
+		margin: 0;
+		padding-left: 68px;
+		padding-right: 68px;
+	}
+
+			#header .inner h1 {
+				font-size: 1.9em;
+			}
+
+			#header .inner img {
+				width: 250px;
+			}
+
+	h2, p {
+		width: 65%;	
+	}
+
+	h2 {
+		font-size: 28px;
+	}
+
+	p {
+		font-size: 1.23em;
+	}
 
 	#header {
-		padding: 5em 3em 8em 3em ;
-		margin-bottom: -4.75em;
+		padding: 5em 0 9em 0;
+	}		
+}
+
+@media screen and (max-width: 990px) {
+
+	h2, p {
+		width: 80%;	
+	}
+}
+
+@media screen and (max-width: 797px) {
+
+	h2 {
+		font-size: 25px;
 	}
 
-		#header .header {
-			width: 100%;
-		}
-
-		#header h2 {
-			color: white;
-			font-size: 1.5em;
-		}
-}*/
-
-/*@media screen and (max-width: 736px) {
-
-	#banner {
-		padding: 5em 2em 4.25em 2em ;
-		margin-bottom: -2.5em;
+	p {
+		font-size: 1.2em;
 	}
 
-		#banner .logo {
-			margin: 0 0 1em 0;
-		}
+	.inner {
+		padding-left: 35px;
+		padding-right: 35px;*/
+	}
 
-			#banner .logo .icon {
+			#header .inner h1 {
 				font-size: 1.5em;
 			}
 
-		#banner h2 {
-			font-size: 1.5em;
+	.floatingbuttons{
+		position: fixed; 
+	    right: 0.3em;
+	    bottom: 0.0em;
+	}
+
+		.floatingbuttons .button {
+			padding: 0.1em;
 		}
 
-		#banner p {
-			font-size: 0.8em;
+		.floatingbuttons .button a img {
+			width: 3.0em;
+			height: 3.0em;
 		}
-}*/
+
+}
+
+@media screen and (max-width: 736px) {
+
+	.outer {
+		margin-bottom: -9em;
+	}
+
+	.inner {
+		width: auto;
+		margin: 0;
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+
+	h2, p {
+		width: 100%;	
+	}
+	
+	#first {
+		padding: 6em 0 8em 0 ;
+		-webkit-clip-path: polygon(0 15%, 100% 0, 100% 100%, 0 85%);
+		        clip-path: polygon(0 15%, 100% 0, 100% 100%, 0 85%);
+	}
+
+	#second {
+		padding: 8em 0 8em 0 ;
+		-webkit-clip-path: polygon(0 0, 100% 12%, 100% 86%, 0 100%);
+		        clip-path: polygon(0 0, 100% 8%, 100% 86%, 0 100%);
+	}
+
+	#last {
+		padding: 8em 0 8em 0 ;
+		-webkit-clip-path: polygon(0 17%, 100% 0, 100% 80%, 0 100%);
+		        clip-path: polygon(0 17%, 100% 0, 100% 80%, 0 100%);
+	}
+
+	#footer {
+		padding: 10em 0 0 0 ;
+		-webkit-clip-path: polygon(0 25%, 100% 0, 100% 100%, 0 100%);
+		        clip-path: polygon(0 50%, 100% 0, 100% 100%, 0 100%);
+	}
+
+			#footer .inner h1 {
+				font-size: 1.0em;
+				font-weight: normal;
+			}
+}
