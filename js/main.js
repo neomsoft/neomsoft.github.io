@@ -5,3 +5,5 @@ request.onload = function(e) {
 	var response = JSON.parse(this.responseText);
 	document.getElementById("usd").innerHTML = Math.ceil(response[0].price_usd) + ' $';
 }
+
+request.send(null);
