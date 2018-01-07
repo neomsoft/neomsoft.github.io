@@ -103,8 +103,11 @@ p {
 	}
 
 			#floatingbuttons .button a img {
-				width: 3.5em;
+				/*width: 3.5em;
 				height: 3.5em;
+*/
+				width: 55px;
+				height: 55px;
 			}
 
 
