@@ -149,13 +149,6 @@ p {
 			        width: 3.0em;
 			        height: 3.0em;
 			    }
-
-		    .content {
-		        width: auto;
-		        margin: 0;
-		        padding-right: 68px;
-		        padding-left: 68px;
-		    }
 }
 
 @media screen and (max-width: 980px) {
