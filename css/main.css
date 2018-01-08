@@ -41,7 +41,7 @@ p {
 		}
 
 #header {
-	/**/
+	padding-top: 4em;
 }
 
 			#header .inner .content h1 {
@@ -53,10 +53,12 @@ p {
 }
 
 #first {
-	clip-path: polygon(0 10%, 100% 0, 100% 100%, 0 100%);
+	-webkit-clip-path: polygon(0 15%, 100% 0, 100% 100%, 0 100%);
+	        clip-path: polygon(0 15%, 100% 0, 100% 100%, 0 100%);
 }
 	#first .inner{
-		clip-path: polygon(0 10%, 100% 0, 100% 100%, 0 90%);
+		-webkit-clip-path: polygon(0 15%, 100% 0, 100% 100%, 0 85%);
+		        clip-path: polygon(0 15%, 100% 0, 100% 100%, 0 85%);
 		background-color: #485B9E;
 	}
 
@@ -70,11 +72,13 @@ p {
 
 
 #last {
-	clip-path: polygon(0 0, 100% 0, 100% 90%, 0 100%);
+	-webkit-clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
+	        clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
 }
 
 	#last .inner{
-		clip-path: polygon(0 10%, 100% 0, 100% 90%, 0 100%);
+		-webkit-clip-path: polygon(0 15%, 100% 0, 100% 85%, 0 100%);
+		        clip-path: polygon(0 15%, 100% 0, 100% 85%, 0 100%);
 		background-color: #213270;
 		padding: 4em 0 6em 0 ;
 	}
@@ -110,13 +114,159 @@ p {
 
 @media screen and (max-width: 1110px) {
 
-	.content {
-		margin: 0 auto;
-		width: 100%
+	h2, p {
+		width: 70%;	
 	}
+	
+	h2 {
+		font-size: 28px;
+	}
+
+	p {
+		font-size: 1.22em;
+	}
+
+
+	#header {
+		padding-top: 0em;
+	}
+
+				#header .inner .content h1 {
+					font-size: 1.9em;
+				}
+
+				#header .inner .content img {
+					width: 250px;
+				}
+
+				#floatingbuttons .button a img {
+					width: 3.0em;
+					height: 3.0em;
+				}
+
+			.content {
+				width: auto;
+				margin: 0;
+				padding-left: 68px;
+				padding-right: 68px;
+			}
+}
+
+@media screen and (max-width: 980px) {
+
+	h2, p {
+		width: 90%;	
+	}
+	
+	h2 {
+		font-size: 25px;
+	}
+
+	p {
+		font-size: 1.20em;
+	}
+
+
+				#header .inner .content h1 {
+					font-size: 1.7em;
+				}
+
+				#header .inner .content img {
+					width: 240px;
+				}
+
+	#first {
+		-webkit-clip-path: polygon(0 12%, 100% 0, 100% 100%, 0 100%);
+		        clip-path: polygon(0 12%, 100% 0, 100% 100%, 0 100%);
+	}
+		#first .inner{
+			-webkit-clip-path: polygon(0 12%, 100% 0, 100% 100%, 0 88%);
+			        clip-path: polygon(0 12%, 100% 0, 100% 100%, 0 88%);
+		}
+
+	#last {
+		-webkit-clip-path: polygon(0 0, 100% 0, 100% 88%, 0 100%);
+		        clip-path: polygon(0 0, 100% 0, 100% 88%, 0 100%);
+	}
+
+		#last .inner{
+			-webkit-clip-path: polygon(0 12%, 100% 0, 100% 88%, 0 100%);
+			        clip-path: polygon(0 12%, 100% 0, 100% 88%, 0 100%);
+		}
+
+		#footer .inner .content h1 {
+			font-size: 1.1em;
+			font-weight: normal;
+		}
+
+			.content {
+				width: auto;
+				margin: 0;
+				padding-left: 58px;
+				padding-right: 58px;
+			}
+}
+
+
+@media screen and (max-width: 755px) {
 
 	h2, p {
 		width: 100%;	
 	}
 	
+	h2 {
+		font-size: 20px;
+	}
+
+	p {
+		font-size: 1.0em;
+	}
+
+		.inner {
+			padding: 2em 0 2em 0 ;
+		}
+
+				#header .inner .content h1 {
+					font-size: 1.4em;
+				}
+
+				#header .inner .content img {
+					width: 210px;
+				}
+
+	#first {
+		-webkit-clip-path: polygon(0 10%, 100% 0, 100% 100%, 0 100%);
+		        clip-path: polygon(0 10%, 100% 0, 100% 100%, 0 100%);
+	}
+		#first .inner{
+			-webkit-clip-path: polygon(0 10%, 100% 0, 100% 100%, 0 90%);
+			        clip-path: polygon(0 10%, 100% 0, 100% 100%, 0 90%);
+		}
+
+	#last {
+		-webkit-clip-path: polygon(0 0, 100% 0, 100% 90%, 0 100%);
+		        clip-path: polygon(0 0, 100% 0, 100% 90%, 0 100%);
+	}
+
+		#last .inner{
+			-webkit-clip-path: polygon(0 10%, 100% 0, 100% 90%, 0 100%);
+			        clip-path: polygon(0 10%, 100% 0, 100% 90%, 0 100%);
+		}
+
+		#footer .inner .content h1 {
+			font-size: 1.0em;
+			font-weight: normal;
+		}
+
+				#floatingbuttons .button a img {
+					width: 2.8em;
+					height: 2.8em;
+				}
+
+			.content {
+				width: auto;
+				margin: 0;
+				padding-left: 20px;
+				padding-right: 20px;
+			}
 }
