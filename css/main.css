@@ -268,7 +268,7 @@ p {
 
 @media screen and (max-width: 755px) {
     h2, p {
-        width: 100%;
+        width: auto;
     }
 
     h2 {
