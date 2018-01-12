@@ -91,19 +91,6 @@ p {
 	}
 
 
-#footer {
-    /**/
-}
-
-	#footer .inner {
-	    padding: 4em 0 0 0 ;
-	}
-
-			#footer .inner .content h1 {
-			    font-size: 1.2em;
-			    font-weight: normal;
-			}
-
 #video {
 	padding-top: 40px;
 }
@@ -156,6 +143,19 @@ p {
 		width: auto;
 		background-color: #334673;
 	}
+
+#footer {
+    /**/
+}
+
+	#footer .inner {
+	    padding: 4em 0 0 0 ;
+	}
+
+			#footer .inner .content h1 {
+			    font-size: 1.2em;
+			    font-weight: normal;
+			}
 
 #floatingbuttons {
     position: fixed;
@@ -230,6 +230,9 @@ p {
         font-size: 1.20em;
     }
 
+		#header .inner{
+			padding: 4em 0 2em 0 ;
+		}
 
 			    #header .inner .content h1 {
 			        font-size: 1.7em;
@@ -259,6 +262,23 @@ p {
 	                clip-path: polygon(0 12%, 100% 0, 100% 88%, 0 100%);
 	    }
 
+	 #video {
+	 	padding-top: 30px;
+	 }
+
+	 	#video .video {
+	 		margin-top: 20px;
+	 		margin-bottom: 50px;
+	 	}
+
+	#footer {
+	    /**/
+	}
+
+		#footer .inner {
+		    padding: 2em 0 0 0 ;
+		}
+
 			    #footer .inner .content h1 {
 			        font-size: 1.1em;
 			        font-weight: normal;
@@ -282,7 +302,10 @@ p {
 	    .inner {
 	        padding: 2em 0 2em 0 ;
 	    }
-
+		
+			#header .inner{
+				padding: 2em 0 0em 0 ;
+			}
 				    #header .inner .content h1 {
 				        font-size: 1.4em;
 				    }
@@ -328,10 +351,22 @@ p {
 		        padding-left: 10px;
 		    }
 
+	#video {
+		padding-top: 20px;
+	}
+
+		#video .video {
+			margin-bottom: 40px;
+		}
+
 		.question h2, .question p {
 			padding-top: 5px;
 			padding-bottom: 5px;
 			padding-left: 5px;
 			padding-right: 5px;
+		}
+
+		#footer .inner {
+		    padding: 1em 0 0 0 ;
 		}
 }
