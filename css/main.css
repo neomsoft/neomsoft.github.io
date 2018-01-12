@@ -129,17 +129,18 @@ p {
 	//
 }
 
-	.question p {
-		padding-bottom: 25px; 
+	.question h2, .question p {
 		padding-right: 25px; 
 		padding-left: 25px;
+	}
+
+	.question p {
+		padding-bottom: 25px; 		
 		width: auto;
 	}
 
 	.question h2 {
 		padding-top: 25px; 
-		padding-right: 25px; 
-		padding-left: 25px; 
 	}
 
 	.question a {
@@ -208,6 +209,12 @@ p {
 			        width: 3.0em;
 			        height: 3.0em;
 			    }
+		    .content {
+		        width: auto;
+		        margin: 0;
+		        padding-right: 58px;
+		        padding-left: 58px;
+		    }
 }
 
 @media screen and (max-width: 980px) {
@@ -256,13 +263,6 @@ p {
 			        font-size: 1.1em;
 			        font-weight: normal;
 			    }
-
-		    .content {
-		        width: auto;
-		        margin: 0;
-		        padding-right: 58px;
-		        padding-left: 58px;
-		    }
 }
 
 
@@ -327,4 +327,11 @@ p {
 		        padding-right: 10px;
 		        padding-left: 10px;
 		    }
+
+		.question h2, .question p {
+			padding-top: 5px;
+			padding-bottom: 5px;
+			padding-left: 5px;
+			padding-right: 5px;
+		}
 }
