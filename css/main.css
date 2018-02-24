@@ -127,10 +127,13 @@ p {
 	}
 
 	.question ul {
-		padding-bottom: 25px; 	
-		padding-right: 25px; 
-		padding-left: 45px;	
+		margin-right: 5px; 
+		margin-left: 5px;	
 		width: auto;
+	}
+
+	.question ul li {
+		padding-bottom: 10px;
 	}
 
 	.question h2 {
@@ -381,10 +384,10 @@ p {
 		}
 
 		.question ul {
-			padding-top: 5px;
-			padding-bottom: 5px;
-			padding-left: 30px;
-			padding-right: 5px;
+			margin-top: 0px;
+			margin-bottom: 0px;
+			margin-left:  0px;
+			margin-right:  0px;
 		}
 
 		#footer .inner {
