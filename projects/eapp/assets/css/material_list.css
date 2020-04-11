@@ -1,0 +1,46 @@
+body, html {
+	font-family: Helvetica;
+	line-height: 1.4;
+	margin: 0;
+	padding: 0;
+	background-color: #F0F0F0;
+}
+
+#page_wrapper {
+	padding: 20px;
+}
+
+	#content {
+		width: 900px;
+		margin: 0 auto;
+		padding-top: 20px;
+		padding-bottom: 20px;
+		box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	    border-radius: 2px;
+		background-color: #fff;
+	}
+
+		#inner {
+			margin-left: 20px;
+			margin-right: 20px;
+		}
+
+@media screen and (max-width: 960px) {
+	#content {
+		width: auto;
+	}
+}
+
+@media screen and (max-width: 800px) {
+	#page_wrapper {
+		padding: 10px;
+	}
+		#content {
+			padding-top: 10px;
+		}
+
+			#inner {
+				margin-left: 10px;
+				margin-right: 10px;
+			}
+}
