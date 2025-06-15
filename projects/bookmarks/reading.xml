@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :164: for Floccus bookmark sync browser extension -->
+<!--- highestId :165: for Floccus bookmark sync browser extension -->
 
-<folder id="164">
-  <title>Dagger</title>
-</folder>
 <folder id="149">
   <title>New</title>
   <bookmark href="https://developer.android.com/identity/user-data-ids" id="150">
@@ -52,6 +49,12 @@
   </bookmark>
   <bookmark href="https://habr.com/ru/articles/838974/" id="161">
     <title>Kotlin Coroutines. От А до Я / Хабр</title>
+  </bookmark>
+</folder>
+<folder id="164">
+  <title>Dagger</title>
+  <bookmark href="https://medium.com/androiddevelopers/hilt-adding-components-to-the-hierarchy-96f207d6d92d" id="165">
+    <title>Hilt — Adding components to the hierarchy | by Manuel Vivo | Android Developers | Medium</title>
   </bookmark>
 </folder>
 </xbel>
