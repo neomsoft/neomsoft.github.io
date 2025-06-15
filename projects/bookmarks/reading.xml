@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :149: for Floccus bookmark sync browser extension -->
+<!--- highestId :154: for Floccus bookmark sync browser extension -->
 
 <folder id="149">
   <title>New</title>
+  <bookmark href="https://developer.android.com/identity/user-data-ids" id="150">
+    <title>Best practices for unique identifiers  |  Identity  |  Android Developers</title>
+  </bookmark>
+  <bookmark href="https://habr.com/ru/companies/wildberries/articles/905994/" id="151">
+    <title>Создание кастомного тултипа Jetpack Compose / Хабр</title>
+  </bookmark>
+  <bookmark href="https://android-developers.googleblog.com/2025/05/announcing-jetpack-navigation-3-for-compose.html?m=1" id="152">
+    <title>Android Developers Blog: Announcing Jetpack Navigation 3</title>
+  </bookmark>
+  <bookmark href="https://habr.com/ru/articles/909638/" id="153">
+    <title>Прячем код по-настоящему: тёмные уголки обфускации R8 и ProGuard / Хабр</title>
+  </bookmark>
+  <bookmark href="https://habr.com/ru/companies/habr_rutube/articles/902310/" id="154">
+    <title>Мастерство фокусов на Compose / Хабр</title>
+  </bookmark>
   <bookmark href="https://docs.gradle.org/current/userguide/best_practices.html" id="148">
     <title>Best Practices for Authoring Gradle Builds</title>
   </bookmark>
