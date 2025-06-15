@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :155: for Floccus bookmark sync browser extension -->
+<!--- highestId :161: for Floccus bookmark sync browser extension -->
 
 <folder id="149">
   <title>New</title>
@@ -26,5 +26,23 @@
 </folder>
 <folder id="155">
   <title>Compose</title>
+  <bookmark href="https://habr.com/ru/articles/796437/" id="156">
+    <title>Осознанная оптимизация Compose 2: В борьбе с композицией / Хабр</title>
+  </bookmark>
+  <bookmark href="https://habr.com/ru/companies/ozontech/articles/742854/" id="157">
+    <title>Осознанная оптимизация Compose / Хабр</title>
+  </bookmark>
+  <bookmark href="https://www.droidcon.com/2022/01/06/safe-compose-arguments-an-improved-way-to-navigate-in-jetpack-compose-part-2/" id="158">
+    <title>Safe Compose arguments: An improved way to navigate in Jetpack Compose — Part 2 - droidcon</title>
+  </bookmark>
+  <bookmark href="https://habr.com/ru/companies/kts/articles/595465/" id="159">
+    <title>Этапы работы Jetpack Compose / Хабр</title>
+  </bookmark>
+</folder>
+<folder id="160">
+  <title>Coroutines</title>
+  <bookmark href="https://habr.com/ru/articles/838974/" id="161">
+    <title>Kotlin Coroutines. От А до Я / Хабр</title>
+  </bookmark>
 </folder>
 </xbel>
