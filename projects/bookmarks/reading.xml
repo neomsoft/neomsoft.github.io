@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :148: for Floccus bookmark sync browser extension -->
+<!--- highestId :149: for Floccus bookmark sync browser extension -->
 
-<bookmark href="https://docs.gradle.org/current/userguide/best_practices.html" id="148">
-  <title>Best Practices for Authoring Gradle Builds</title>
-</bookmark>
+<folder id="149">
+  <title>New</title>
+  <bookmark href="https://docs.gradle.org/current/userguide/best_practices.html" id="148">
+    <title>Best Practices for Authoring Gradle Builds</title>
+  </bookmark>
+</folder>
 </xbel>
