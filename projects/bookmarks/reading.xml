@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :161: for Floccus bookmark sync browser extension -->
+<!--- highestId :164: for Floccus bookmark sync browser extension -->
 
+<folder id="164">
+  <title>Dagger</title>
+</folder>
 <folder id="149">
   <title>New</title>
   <bookmark href="https://developer.android.com/identity/user-data-ids" id="150">
@@ -41,6 +44,12 @@
 </folder>
 <folder id="160">
   <title>Coroutines</title>
+  <bookmark href="https://manuelvivo.dev/suspend-modifier" id="162">
+    <title>The suspend modifier — under the hood</title>
+  </bookmark>
+  <bookmark href="https://habr.com/ru/companies/otus/articles/546070/" id="163">
+    <title>О взаимосвязи между корутинами, потоками и проблемами параллелизма / Хабр</title>
+  </bookmark>
   <bookmark href="https://habr.com/ru/articles/838974/" id="161">
     <title>Kotlin Coroutines. От А до Я / Хабр</title>
   </bookmark>
