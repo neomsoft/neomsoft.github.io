@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :165: for Floccus bookmark sync browser extension -->
+<!--- highestId :167: for Floccus bookmark sync browser extension -->
 
+<folder id="166">
+  <title>Architecture, algorithms and data structures</title>
+</folder>
+<folder id="167">
+  <title>Gradle</title>
+</folder>
 <folder id="149">
   <title>New</title>
   <bookmark href="https://developer.android.com/identity/user-data-ids" id="150">
