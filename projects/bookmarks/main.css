@@ -1,0 +1,17 @@
+.folder {
+	padding-left: 18px;
+	width: 100%;
+}
+
+.bookmark {
+	width: 100%;
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+
+a.button {
+    padding: 6px 10px;
+    border: 1px outset #424242;
+    border-radius: 8px;
+    color: #424242;
+}
