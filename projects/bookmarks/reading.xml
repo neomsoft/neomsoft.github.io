@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :177: for Floccus bookmark sync browser extension -->
+<!--- highestId :191: for Floccus bookmark sync browser extension -->
 
 <folder id="149">
   <title>New</title>
@@ -89,8 +89,50 @@
 </folder>
 <folder id="169">
   <title>Android</title>
+  <bookmark href="https://medium.com/androiddevelopers/package-visibility-in-android-11-cc857f221cd9" id="178">
+    <title>Package visibility in Android 11. On Android 10 and earlier, apps could… | by Yacine Rezgui | Android Developers | Medium</title>
+  </bookmark>
+  <bookmark href="https://android-developers.googleblog.com/2022/03/jetpack-datastore-wrap-up.html" id="179">
+    <title>Android Developers Blog: Jetpack DataStore - wrap up</title>
+  </bookmark>
+  <bookmark href="https://developer.android.com/tools/releases/platforms" id="180">
+    <title>SDK Platform release notes  |  Android Studio  |  Android Developers</title>
+  </bookmark>
+  <bookmark href="https://developer.android.com/build/migrate-to-ksp" id="181">
+    <title>Migrate from kapt to KSP  |  Android Studio  |  Android Developers</title>
+  </bookmark>
+  <bookmark href="https://habr.com/ru/companies/cian/articles/588314/" id="182">
+    <title>Main Loop (Главный цикл) в Android Часть 1. Пишем свой цикл / Хабр</title>
+  </bookmark>
+  <bookmark href="https://habr.com/ru/articles/593863/" id="183">
+    <title>Android App Shortcuts: static, dynamic, and pinned shortcuts. Использование в реальном проекте / Хабр</title>
+  </bookmark>
+  <bookmark href="https://habr.com/ru/companies/yandex/articles/584756/" id="184">
+    <title>Модульность и DI в современном Android-приложении. Большой туториал от Яндекса / Хабр</title>
+  </bookmark>
+  <bookmark href="https://medium.com/inloopx/android-process-kill-and-the-big-implications-for-your-app-1ecbed4921cb" id="185">
+    <title>Android process death — and the (big) implications for your app | by Daniel Novak | INLOOPX | Medium</title>
+  </bookmark>
+  <bookmark href="https://habr.com/ru/articles/432310/" id="186">
+    <title>Ktor как HTTP клиент для Android / Хабр</title>
+  </bookmark>
 </folder>
 <folder id="168">
   <title>Multiplatform</title>
+  <bookmark href="https://medium.com/@ndusundayDev/simplify-dependency-declarations-with-gradles-type-safe-project-accessors-2227859330fe" id="187">
+    <title>Simplify Dependency Declarations with Gradle’s Type-Safe Project Accessors | by Sunday Ndu | Medium</title>
+  </bookmark>
+  <bookmark href="https://medium.com/@hendryprasetya/kmp-app-on-web-and-mobile-with-ktor-client-compose-ui-1aa58f9436fc" id="188">
+    <title>KMP App on Web and Mobile with Ktor Client + Compose UI | by Hendry Prasetya | Medium</title>
+  </bookmark>
+  <bookmark href="https://medium.com/@fergus.a.hewson/extracting-android-room-and-datastore-dependencies-from-commonmain-for-kotlin-multiplatform-to-f1e18e2a7458" id="189">
+    <title>Extracting Android Room and DataStore Dependencies from CommonMain for Kotlin Multiplatform to support WASM | by Fergus A Hewson | Medium</title>
+  </bookmark>
+  <bookmark href="https://medium.com/arconsis/jetpack-preferences-datastore-in-kotlin-multiplatform-mobile-kmm-6bf046772217" id="190">
+    <title>Jetpack Preferences Datastore in Kotlin Multiplatform Mobile (KMM) | by Karim Reda | arconsis | Medium</title>
+  </bookmark>
+  <bookmark href="https://otsembo.hashnode.dev/jetpack-datastore-a-multiplatform-solution" id="191">
+    <title>Jetpack DataStore: A Multiplatform Solution</title>
+  </bookmark>
 </folder>
 </xbel>
