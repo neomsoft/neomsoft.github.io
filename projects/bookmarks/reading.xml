@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :169: for Floccus bookmark sync browser extension -->
+<!--- highestId :177: for Floccus bookmark sync browser extension -->
 
 <folder id="149">
   <title>New</title>
@@ -59,9 +59,33 @@
 </folder>
 <folder id="167">
   <title>Gradle</title>
+  <bookmark href="https://docs.gradle.org/current/userguide/declaring_repositories.html" id="170">
+    <title>3. Declaring repositories</title>
+  </bookmark>
+  <bookmark href="https://docs.gradle.org/current/userguide/supported_repository_types.html" id="171">
+    <title>Repository Types</title>
+  </bookmark>
+  <bookmark href="https://medium.com/@saulmm2/android-gradle-precompiled-scripts-tomls-kotlin-dsl-df3c27ea017c" id="172">
+    <title>Using Version Catalogs from Gradle Precompiled Scripts with Kotlin DSL | by Saul | Medium</title>
+  </bookmark>
 </folder>
 <folder id="166">
   <title>Architecture, algorithms and data structures</title>
+  <bookmark href="https://devjorgecastro.medium.com/modern-android-development-in-2024-b70f194938bd" id="173">
+    <title>Modern Android Development in 2025 | by Jorge Luis Castro Medina | Medium</title>
+  </bookmark>
+  <bookmark href="https://medium.com/webbdev/solid-4ffc018077da" id="174">
+    <title>Принципы SOLID, о которых должен знать каждый разработчик | by Nikita | WebbDEV | Medium</title>
+  </bookmark>
+  <bookmark href="https://habr.com/ru/articles/348286/" id="175">
+    <title>SOLID / Хабр</title>
+  </bookmark>
+  <bookmark href="https://habr.com/ru/articles/463125/" id="176">
+    <title>ООП в картинках / Хабр</title>
+  </bookmark>
+  <bookmark href="https://refactoring.guru/uk/design-patterns/structural-patterns" id="177">
+    <title>Структурні патерни проектування</title>
+  </bookmark>
 </folder>
 <folder id="169">
   <title>Android</title>
