@@ -3,18 +3,6 @@
 <xbel version="1.0">
 <!--- highestId :169: for Floccus bookmark sync browser extension -->
 
-<folder id="168">
-  <title>Multiplatform</title>
-</folder>
-<folder id="169">
-  <title>Android</title>
-</folder>
-<folder id="166">
-  <title>Architecture, algorithms and data structures</title>
-</folder>
-<folder id="167">
-  <title>Gradle</title>
-</folder>
 <folder id="149">
   <title>New</title>
   <bookmark href="https://developer.android.com/identity/user-data-ids" id="150">
@@ -68,5 +56,17 @@
   <bookmark href="https://medium.com/androiddevelopers/hilt-adding-components-to-the-hierarchy-96f207d6d92d" id="165">
     <title>Hilt — Adding components to the hierarchy | by Manuel Vivo | Android Developers | Medium</title>
   </bookmark>
+</folder>
+<folder id="167">
+  <title>Gradle</title>
+</folder>
+<folder id="166">
+  <title>Architecture, algorithms and data structures</title>
+</folder>
+<folder id="169">
+  <title>Android</title>
+</folder>
+<folder id="168">
+  <title>Multiplatform</title>
 </folder>
 </xbel>
