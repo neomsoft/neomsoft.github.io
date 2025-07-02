@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :191: for Floccus bookmark sync browser extension -->
+<!--- highestId :192: for Floccus bookmark sync browser extension -->
 
 <folder id="149">
   <title>New</title>
+  <bookmark href="https://proandroiddev.com/android-singleliveevent-redux-with-kotlin-flow-b755c70bb055" id="192">
+    <title>Android SingleLiveEvent Redux with Kotlin Flow | by Michael Ferguson | ProAndroidDev</title>
+  </bookmark>
   <bookmark href="https://developer.android.com/identity/user-data-ids" id="150">
     <title>Best practices for unique identifiers  |  Identity  |  Android Developers</title>
   </bookmark>
