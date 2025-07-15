@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :192: for Floccus bookmark sync browser extension -->
+<!--- highestId :193: for Floccus bookmark sync browser extension -->
 
 <folder id="149">
   <title>New</title>
+  <bookmark href="https://proandroiddev.com/helpful-adb-commands-d195f13e93dd" id="193">
+    <title>Helpful ADB commands. Almost 2 years ago I wrote a blog post… | by Michal Bialas | ProAndroidDev</title>
+  </bookmark>
   <bookmark href="https://proandroiddev.com/android-singleliveevent-redux-with-kotlin-flow-b755c70bb055" id="192">
     <title>Android SingleLiveEvent Redux with Kotlin Flow | by Michael Ferguson | ProAndroidDev</title>
   </bookmark>
