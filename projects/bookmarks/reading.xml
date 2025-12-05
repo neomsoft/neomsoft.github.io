@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :45: for Floccus bookmark sync browser extension -->
+<!--- highestId :47: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>New</title>
@@ -118,6 +118,12 @@
   </bookmark>
   <bookmark href="https://habr.com/ru/articles/432310/" id="40">
     <title>Ktor как HTTP клиент для Android / Хабр</title>
+  </bookmark>
+  <bookmark href="https://habr.com/p/905154/" id="46">
+    <title>Edge-to-edge в Android: опыт внедрения и рекомендации по тестированию</title>
+  </bookmark>
+  <bookmark href="https://habr.com/p/773228/" id="47">
+    <title>Современные способы запуска фоновой работы в Android / Хабр</title>
   </bookmark>
 </folder>
 <folder id="8">
