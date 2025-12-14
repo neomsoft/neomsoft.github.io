@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :47: for Floccus bookmark sync browser extension -->
+<!--- highestId :48: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>New</title>
@@ -25,6 +25,9 @@
   </bookmark>
   <bookmark href="https://docs.gradle.org/current/userguide/best_practices.html" id="15">
     <title>Best Practices for Authoring Gradle Builds</title>
+  </bookmark>
+  <bookmark href="https://proandroiddev.com/swipeto-explore-different-implementations-in-jetpack-compose-8c6cd59bbc3c" id="48">
+    <title></title>
   </bookmark>
 </folder>
 <folder id="2">
