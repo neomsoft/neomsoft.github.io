@@ -1,0 +1,34 @@
+:root {
+  --content-color: #424242;
+  --border-radius: 4px;
+  --margin-between-elements: 8px;
+}
+
+body {
+	padding: 20px;
+}
+
+a {
+    color: var(--content-color);
+}
+
+.content {
+	display: none;
+}
+
+.bookmark {
+	padding: 8px;
+	margin-bottom: var(--margin-between-elements);
+    border: 1px outset var(--content-color);
+    border-radius: var(--border-radius);
+}
+
+.folder_title {
+	background-color: var(--content-color);
+    border-radius: var(--border-radius);
+	margin-bottom: var(--margin-between-elements);
+	color: white;
+	cursor: pointer;
+	padding: 18px;
+	font-size: 15px;
+}

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :48: for Floccus bookmark sync browser extension -->
+
+<folder id="1">
+  <title>New</title>
+  <bookmark href="https://proandroiddev.com/helpful-adb-commands-d195f13e93dd" id="9">
+    <title>Helpful ADB commands. Almost 2 years ago I wrote a blog post… | by Michal Bialas | ProAndroidDev</title>
+  </bookmark>
+  <bookmark href="https://proandroiddev.com/android-singleliveevent-redux-with-kotlin-flow-b755c70bb055" id="10">
+    <title>Android SingleLiveEvent Redux with Kotlin Flow | by Michael Ferguson | ProAndroidDev</title>
+  </bookmark>
+  <bookmark href="https://developer.android.com/identity/user-data-ids" id="11">
+    <title>Best practices for unique identifiers  |  Identity  |  Android Developers</title>
+  </bookmark>
+  <bookmark href="https://android-developers.googleblog.com/2025/05/announcing-jetpack-navigation-3-for-compose.html?m=1" id="12">
+    <title>Android Developers Blog: Announcing Jetpack Navigation 3</title>
+  </bookmark>
+  <bookmark href="https://habr.com/ru/articles/909638/" id="13">
+    <title>Прячем код по-настоящему: тёмные уголки обфускации R8 и ProGuard / Хабр</title>
+  </bookmark>
+  <bookmark href="https://habr.com/ru/companies/habr_rutube/articles/902310/" id="14">
+    <title>Мастерство фокусов на Compose / Хабр</title>
+  </bookmark>
+  <bookmark href="https://docs.gradle.org/current/userguide/best_practices.html" id="15">
+    <title>Best Practices for Authoring Gradle Builds</title>
+  </bookmark>
+  <bookmark href="https://proandroiddev.com/swipeto-explore-different-implementations-in-jetpack-compose-8c6cd59bbc3c" id="48">
+    <title></title>
+  </bookmark>
+</folder>
+<folder id="2">
+  <title>Compose</title>
+  <bookmark href="https://habr.com/ru/articles/796437/" id="16">
+    <title>Осознанная оптимизация Compose 2: В борьбе с композицией / Хабр</title>
+  </bookmark>
+  <bookmark href="https://habr.com/ru/companies/ozontech/articles/742854/" id="17">
+    <title>Осознанная оптимизация Compose / Хабр</title>
+  </bookmark>
+  <bookmark href="https://www.droidcon.com/2022/01/06/safe-compose-arguments-an-improved-way-to-navigate-in-jetpack-compose-part-2/" id="18">
+    <title>Safe Compose arguments: An improved way to navigate in Jetpack Compose — Part 2 - droidcon</title>
+  </bookmark>
+  <bookmark href="https://habr.com/ru/companies/kts/articles/595465/" id="19">
+    <title>Этапы работы Jetpack Compose / Хабр</title>
+  </bookmark>
+</folder>
+<folder id="3">
+  <title>Coroutines</title>
+  <bookmark href="https://manuelvivo.dev/suspend-modifier" id="20">
+    <title>The suspend modifier — under the hood</title>
+  </bookmark>
+  <bookmark href="https://habr.com/ru/companies/otus/articles/546070/" id="21">
+    <title>О взаимосвязи между корутинами, потоками и проблемами параллелизма / Хабр</title>
+  </bookmark>
+  <bookmark href="https://habr.com/ru/articles/838974/" id="22">
+    <title>Kotlin Coroutines. От А до Я / Хабр</title>
+  </bookmark>
+</folder>
+<folder id="4">
+  <title>Dagger</title>
+  <bookmark href="https://medium.com/androiddevelopers/hilt-adding-components-to-the-hierarchy-96f207d6d92d" id="23">
+    <title>Hilt — Adding components to the hierarchy | by Manuel Vivo | Android Developers | Medium</title>
+  </bookmark>
+</folder>
+<folder id="5">
+  <title>Gradle</title>
+  <bookmark href="https://docs.gradle.org/current/userguide/declaring_repositories.html" id="24">
+    <title>3. Declaring repositories</title>
+  </bookmark>
+  <bookmark href="https://docs.gradle.org/current/userguide/supported_repository_types.html" id="25">
+    <title>Repository Types</title>
+  </bookmark>
+  <bookmark href="https://medium.com/@saulmm2/android-gradle-precompiled-scripts-tomls-kotlin-dsl-df3c27ea017c" id="26">
+    <title>Using Version Catalogs from Gradle Precompiled Scripts with Kotlin DSL | by Saul | Medium</title>
+  </bookmark>
+</folder>
+<folder id="6">
+  <title>Architecture, algorithms and data structures</title>
+  <bookmark href="https://devjorgecastro.medium.com/modern-android-development-in-2024-b70f194938bd" id="27">
+    <title>Modern Android Development in 2025 | by Jorge Luis Castro Medina | Medium</title>
+  </bookmark>
+  <bookmark href="https://medium.com/webbdev/solid-4ffc018077da" id="28">
+    <title>Принципы SOLID, о которых должен знать каждый разработчик | by Nikita | WebbDEV | Medium</title>
+  </bookmark>
+  <bookmark href="https://habr.com/ru/articles/348286/" id="29">
+    <title>SOLID / Хабр</title>
+  </bookmark>
+  <bookmark href="https://habr.com/ru/articles/463125/" id="30">
+    <title>ООП в картинках / Хабр</title>
+  </bookmark>
+  <bookmark href="https://refactoring.guru/uk/design-patterns/structural-patterns" id="31">
+    <title>Структурні патерни проектування</title>
+  </bookmark>
+</folder>
+<folder id="7">
+  <title>Android</title>
+  <bookmark href="https://medium.com/androiddevelopers/package-visibility-in-android-11-cc857f221cd9" id="32">
+    <title>Package visibility in Android 11. On Android 10 and earlier, apps could… | by Yacine Rezgui | Android Developers | Medium</title>
+  </bookmark>
+  <bookmark href="https://android-developers.googleblog.com/2022/03/jetpack-datastore-wrap-up.html" id="33">
+    <title>Android Developers Blog: Jetpack DataStore - wrap up</title>
+  </bookmark>
+  <bookmark href="https://developer.android.com/tools/releases/platforms" id="34">
+    <title>SDK Platform release notes  |  Android Studio  |  Android Developers</title>
+  </bookmark>
+  <bookmark href="https://developer.android.com/build/migrate-to-ksp" id="35">
+    <title>Migrate from kapt to KSP  |  Android Studio  |  Android Developers</title>
+  </bookmark>
+  <bookmark href="https://habr.com/ru/companies/cian/articles/588314/" id="36">
+    <title>Main Loop (Главный цикл) в Android Часть 1. Пишем свой цикл / Хабр</title>
+  </bookmark>
+  <bookmark href="https://habr.com/ru/articles/593863/" id="37">
+    <title>Android App Shortcuts: static, dynamic, and pinned shortcuts. Использование в реальном проекте / Хабр</title>
+  </bookmark>
+  <bookmark href="https://habr.com/ru/companies/yandex/articles/584756/" id="38">
+    <title>Модульность и DI в современном Android-приложении. Большой туториал от Яндекса / Хабр</title>
+  </bookmark>
+  <bookmark href="https://medium.com/inloopx/android-process-kill-and-the-big-implications-for-your-app-1ecbed4921cb" id="39">
+    <title>Android process death — and the (big) implications for your app | by Daniel Novak | INLOOPX | Medium</title>
+  </bookmark>
+  <bookmark href="https://habr.com/ru/articles/432310/" id="40">
+    <title>Ktor как HTTP клиент для Android / Хабр</title>
+  </bookmark>
+  <bookmark href="https://habr.com/p/905154/" id="46">
+    <title>Edge-to-edge в Android: опыт внедрения и рекомендации по тестированию</title>
+  </bookmark>
+  <bookmark href="https://habr.com/p/773228/" id="47">
+    <title>Современные способы запуска фоновой работы в Android / Хабр</title>
+  </bookmark>
+</folder>
+<folder id="8">
+  <title>Multiplatform</title>
+  <bookmark href="https://medium.com/@ndusundayDev/simplify-dependency-declarations-with-gradles-type-safe-project-accessors-2227859330fe" id="41">
+    <title>Simplify Dependency Declarations with Gradle’s Type-Safe Project Accessors | by Sunday Ndu | Medium</title>
+  </bookmark>
+  <bookmark href="https://medium.com/@hendryprasetya/kmp-app-on-web-and-mobile-with-ktor-client-compose-ui-1aa58f9436fc" id="42">
+    <title>KMP App on Web and Mobile with Ktor Client + Compose UI | by Hendry Prasetya | Medium</title>
+  </bookmark>
+  <bookmark href="https://medium.com/@fergus.a.hewson/extracting-android-room-and-datastore-dependencies-from-commonmain-for-kotlin-multiplatform-to-f1e18e2a7458" id="43">
+    <title>Extracting Android Room and DataStore Dependencies from CommonMain for Kotlin Multiplatform to support WASM | by Fergus A Hewson | Medium</title>
+  </bookmark>
+  <bookmark href="https://medium.com/arconsis/jetpack-preferences-datastore-in-kotlin-multiplatform-mobile-kmm-6bf046772217" id="44">
+    <title>Jetpack Preferences Datastore in Kotlin Multiplatform Mobile (KMM) | by Karim Reda | arconsis | Medium</title>
+  </bookmark>
+  <bookmark href="https://otsembo.hashnode.dev/jetpack-datastore-a-multiplatform-solution" id="45">
+    <title>Jetpack DataStore: A Multiplatform Solution</title>
+  </bookmark>
+</folder>
+</xbel>

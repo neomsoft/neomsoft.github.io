@@ -1,1 +1,0 @@
-This repository is used to synchronize bookmarks via [floccus](https://floccus.org).

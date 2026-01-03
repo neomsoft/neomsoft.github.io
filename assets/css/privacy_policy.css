@@ -1,0 +1,11 @@
+#inner h1, #inner p {
+	margin: 0;
+}
+
+#inner h2 {
+	margin: 20px 0 5px 0;
+}
+
+.permission {
+	word-spacing: -5px;
+}
